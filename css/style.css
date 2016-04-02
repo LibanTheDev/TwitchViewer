@@ -1,0 +1,19 @@
+
+container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.twitchview {
+  margin-bottom: 10px;
+  padding: 0px 8px;
+}
+
+.twitchContainer {  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grayText {
+  color: #8c8c8c;
+}
